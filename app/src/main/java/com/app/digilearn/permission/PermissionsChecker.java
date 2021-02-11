@@ -1,0 +1,27 @@
+package com.app.digilearn.permission;
+
+import android.content.Context;
+import android.content.pm.PackageManager;
+
+import androidx.core.content.ContextCompat;
+
+public class PermissionsChecker {
+    private final Context context;
+
+    public PermissionsChecker(Context context) {
+        this.context = context;
+    }
+
+    public boolean lacksPermissions(String... permissions) { //ini untuk memunculkan permission
+        for (String permission : permissions) {
+            if (lacksPermission(permission)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    private boolean lacksPermission(String permission) {
+        return ContextCompat.checkSelfPermission(context, permission) == PackageManager.PERMISSION_DENIED;
+    }
+}

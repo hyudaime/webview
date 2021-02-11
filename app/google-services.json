@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "238969552261",
+    "firebase_url": "https://homybee.firebaseio.com",
+    "project_id": "homybee",
+    "storage_bucket": "homybee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238969552261:android:c48f9c0f515f8f5f16d8ec",
+        "android_client_info": {
+          "package_name": "com.app.digilearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238969552261-c3cpq8uav8bdb75v032rcec2uithknlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAvtsPAYUmmnsm6iHSRqbBG8R0T9jlbQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238969552261-c3cpq8uav8bdb75v032rcec2uithknlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "238969552261-i60f2bip2vuq8lmi1g3brmf65bama9kc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.organibee.Homybee-467-IOS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238969552261:android:98ccb06837cf8a6216d8ec",
+        "android_client_info": {
+          "package_name": "com.app.homybee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238969552261-c3cpq8uav8bdb75v032rcec2uithknlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAvtsPAYUmmnsm6iHSRqbBG8R0T9jlbQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238969552261-c3cpq8uav8bdb75v032rcec2uithknlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "238969552261-i60f2bip2vuq8lmi1g3brmf65bama9kc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.organibee.Homybee-467-IOS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238969552261:android:c081a27ea378a19816d8ec",
+        "android_client_info": {
+          "package_name": "com.app.organibee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238969552261-c3cpq8uav8bdb75v032rcec2uithknlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAvtsPAYUmmnsm6iHSRqbBG8R0T9jlbQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238969552261-c3cpq8uav8bdb75v032rcec2uithknlq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "238969552261-i60f2bip2vuq8lmi1g3brmf65bama9kc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.organibee.Homybee-467-IOS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
